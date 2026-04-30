@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.5/NavisCortex-v0.2.5.zip",
-  "changelog": "v0.2.5 — Bug-fix bundle: build out-of-the-box senza suffisso N.., get_clashes payload pulito (item1/item2 omessi quando includeItems=false), null-safety in isolate_items / isolate_by_category."
+  "version": "0.2.6",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.6/NavisCortex-v0.2.6.zip",
+  "changelog": "v0.2.6 — User Action Recorder (opt-in checkbox in Settings, registra selezioni/viewpoint/set in user-actions.jsonl). Fix workflow_morning_coordination viewpoints count (ora ricorsivo). Fix find_items_by_property warning emesso solo se 0 risultati."
 }
