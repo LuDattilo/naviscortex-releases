@@ -1,5 +1,5 @@
 {
   "version": "0.2.3",
-  "downloadUrl": "https://github.com/LuDattilo/NavisCortex/releases/download/v0.2.3/NavisCortex-v0.2.3.zip",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.3/NavisCortex-v0.2.3.zip",
   "changelog": "v0.2.3 — In-app update banner: Settings now shows a yellow banner when a newer release is detected at startup. Stability fixes for Navisworks 2026: COM batch operations chunked at 500 items, ClashTest WeakRef tolerance, cross_app_selection tool capability gate. Plus the v0.2.2 Clash Detective WeakRef fix."
 }
