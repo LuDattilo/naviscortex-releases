@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.4/NavisCortex-v0.2.4.zip",
-  "changelog": "v0.2.4 — Fix toggle icon ribbon: l'icona Cortex Switch ora cambia colore (grigia/verde) quando il bridge passa da OFF a ON. Bug presente da almeno v0.2.0."
+  "version": "0.2.5",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.5/NavisCortex-v0.2.5.zip",
+  "changelog": "v0.2.5 — Bug-fix bundle: build out-of-the-box senza suffisso N.., get_clashes payload pulito (item1/item2 omessi quando includeItems=false), null-safety in isolate_items / isolate_by_category."
 }
